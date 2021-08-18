@@ -1,4 +1,4 @@
-- ✨ Hi, I’m @analuizafantina
+✨ Olá,  eu sou Ana Luiza Fantin!
 - 📚 Atualmente estou estudando Análise e desenvolvimento de sistemas
 
 
