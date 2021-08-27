@@ -1,5 +1,7 @@
 ## ✨ Olá,  eu sou Ana Luiza Fantin!
-- 📚 Atualmente estou estudando Análise e desenvolvimento de sistemas
+- 📚      Atualmente estou estudando Análise e desenvolvimento de sistemas.
+
+  
 <div>
   <a href="https://github.com/analuizafantini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizafantin&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
