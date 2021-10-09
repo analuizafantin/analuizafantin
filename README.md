@@ -1,10 +1,10 @@
 ## ✨ Olá,  eu sou Ana Luiza Fantin!
-- 📚      Atualmente estou estudando Análise e desenvolvimento de sistemas.
+- 📚      Estudante de Análise e Desenvolvimento de Sistemas, violonista e futura DEV.
 
   
 <div>
-  <a href="https://github.com/analuizafantini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizafantin&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/analuizafantin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizafantin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuizafantin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
