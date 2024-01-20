@@ -1,5 +1,5 @@
 ## ✨ Olá,  eu sou Ana Luiza Fantin!
-- 📚      Atualmente estou estudando Análise e desenvolvimento de sistemas.
+- 📚       Análise e desenvolvimento de sistemas.
 
   
 <div>
